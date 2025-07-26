@@ -2,6 +2,16 @@
 
 A minimal PDF-based RAG (Retrieval-Augmented Generation) assistant. Users can upload a PDF, preview it, and ask questions about its contents using an AI agent.
 
+![alt image](https://github.com/anujmumbaikar/PDF-RAG-ASSISTANT/blob/168fde1a9130cf345a99ff2b74164c184974b11e/assets/photo.png)
+
+---
+
+## Workflow
+
+![alt image](https://github.com/anujmumbaikar/PDF-RAG-ASSISTANT/blob/168fde1a9130cf345a99ff2b74164c184974b11e/assets/workflow.png)
+
+---
+
 ## 🛠️ Tech Stack
 
 - **Next.js** (App Router) – UI and backend routes  
